@@ -1,0 +1,5 @@
+# Public documentation repository
+# No private implementation or sensitive operational data should live here.
+
+.DS_Store
+Thumbs.db
