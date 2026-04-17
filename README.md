@@ -2,6 +2,12 @@
 
 Public-safe observability framework for tracking proportionality, drift, and calibration in large-scale epidemic response systems.
 
+## Observatory Surface
+
+Initial public visual direction for EROL as an epidemic response observability layer.
+
+![EROL Observability Layer](docs/EROL_Observability_Hero.png)
+
 ## One-Line Summary
 
 EROL studies whether large-scale response systems remain proportional to real-world epidemic signals over time.
